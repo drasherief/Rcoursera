@@ -1,0 +1,17 @@
+label,total_no_of_patients_in_the_study,ac_analysis,original_reference,original_or_ac,ac_org_lower_CI,ac_org_upper_CI,or_ac_ctrl,ac_ctrl_org_lower_CI,ac_ctrl_org_upper_CI,overall_OR,overall_SE,events_ac_pts,total_ac_pts,events_ac_ctrl_pts,total_ac_ctrl_pts
+Aziz et al. (2015),39476,Univariate,AC_ctrl,1.56,0.56,1.96,NA,NA,NA,1.56,0.31958239,NA,16366,NA,NA
+El-Dhuwaib et al. (2016),572223,Multivariate,AC,NA,0.81,1.91,0.48,0.3,0.76,2.083333333,0.23712652,22,20421,478,551812
+Fletcher et al. (1999),20084,Multivariate,AC_ctrl,1.32,0.76,2.19,NA,NA,NA,1.32,0.269984283,NA,NA,NA,NA
+Georgiades et al. (2008),2184,Univariate,AC_ctrl,3.611439842,1.28,10.21,NA,NA,NA,3.611439842,0.529721315,6,344,9,1840
+Giger et al. (2011),31838,Univariate,other,NA,NA,NA,NA,NA,NA,1.366244964,0.220342539,29,7255,72,24583
+Kamran et al. (2013),2061,Multivariate,AC_ctrl,1.17,0.83,1.61,NA,NA,NA,1.17,0.169021367,NA,155,NA,871
+Kholdebarin et al. (2008),NA,Univariate,AC_ctrl,1.7,0.5,6.2,NA,NA,NA,1.7,0.642269508,NA,NA,NA,NA
+Kohn et al. (2018),800,Multivariate,AC_ctrl,17.16,1.4,210.86,NA,NA,NA,17.16,1.27926586,3,40,4,760
+Kum et al. (1996),478,Univariate,other,NA,NA,NA,NA,NA,NA,24.88235294,1.164175778,3,54,1,424
+Mangieri et al. (2019),217775,Univariate,other,NA,NA,NA,NA,NA,NA,1.198454424,0.106662803,310,147609,123,70166
+Natsume et al. (2017),1289,Multivariate,AC_ctrl,0.2,0.032,1.32,NA,NA,NA,0.2,0.94889059,2,464,6,825
+Ragulin-Coyne et al. (2012),111815,Multivariate,AC,NA,NA,NA,0.33,0.08,1.33,3.03030303,0.717068262,NA,NA,NA,NA
+Russell et al. (1996),30211,Univariate,other,NA,NA,NA,NA,NA,NA,2.130093604,0.295313736,20,7803,27,22408
+Törnqvist et al. (2015),51041,Multivariate,AC_ctrl,1.23,1.03,1.47,NA,NA,NA,1.23,0.090740714,172,9008,575,42033
+Tornqvist et al. (2016),NA,Univariate,AC_ctrl,1.94,1.25,2.99,NA,NA,NA,1.94,0.222482101,NA,NA,NA,NA
+Yaghoubian et al. (2008),2470,Multivariate,AC_ctrl,0.67,0.27,1.68,NA,NA,NA,0.67,0.466358957,NA,1013,NA,NA
